@@ -8,4 +8,5 @@ Chinmay here
 int main()
 {
   printf("hello github world");
+  return 0;
 }
